@@ -1,0 +1,37 @@
+References
+
+1. https://www.apple.com/ipad-10.2/
+1. https://www.devicespecifications.com/en/model/2a5c574c
+1. https://support.apple.com/en-us/HT212789#:~:text=iPadOS%2015%20makes%20multitasking%20easier,over%20any%20app%20or%20screen.
+
+2. https://www.gsmarena.com/apple_ipad_pro_11_(2022)-11940.php
+2. https://www.devicespecifications.com/en/model/c7075ae0
+2. https://en.wikipedia.org/wiki/IPadOS_16
+
+3. https://www.microsoft.com/en-us/d/surface-pro-9/93vkd8np4fvk?activetab=pivot:overviewtab
+3. https://nanoreview.net/en/laptop/microsoft-surface-pro-9
+3. https://www.micron.com/products/dram/lpddr5
+3. https://www.xda-developers.com/surface-pro-9-micro-sdcard-slot/
+3. https://www.intel.com/content/www/us/en/products/sku/226266/intel-core-i51235u-processor-12m-cache-up-to-4-40-ghz-with-ipu/specifications.html
+3. https://www.intel.com/content/www/us/en/products/sku/226259/intel-core-i71255u-processor-12m-cache-up-to-4-70-ghz/specifications.html
+
+
+4. https://www.samsung.com/levant/tablets/galaxy-tab-s/galaxy-tab-s8-plus-wifi-graphite-128gb-sm-x800nzaamea/
+4. https://www.gsmarena.com/samsung_galaxy_tab_s8+-11342.php
+4. https://www.sammobile.com/samsung/galaxy-tab-s8-plus/specs/
+4. https://www.samsung.com/in/support/mobile-devices/what-is-the-difference-between-amoled-and-super-amoled/#:~:text=Super%20AMOLED%20is%20a%20more,screen%20in%20a%20single%20layer.&text=When%20compared%20with%20a%20regular,display%20technologies%20such%20as%20LCD.
+4. https://nanoreview.net/en/soc/qualcomm-snapdragon-8-gen-1
+4. https://www.samsung.com/levant/support/mobile-devices/galaxy-s8-s8-plus-what-is-the-accepted-external-memory-size-of-the-s8-s8-plus/#:~:text=Close-,%5BGalaxy%20S8%2FS8%2B%5D%20What%20is%20the%20accepted%20external%20memory,of%20the%20S8%2FS8%2B%3F&text=The%20device%20can%20accept%20external,up%20to%20(256%20GB)%3A
+
+5. https://www.gsmarena.com/apple_ipad_mini_(2021)-11105.php
+5. https://www.devicespecifications.com/en/model/0754574e
+5. https://en.wikipedia.org/wiki/IPad_Mini_(6th_generation)#:~:text=Internally%2C%20it%20has%20an%20A15,the%20iPhone%20models'%203.23%20GHz.
+
+
+6. https://www.amazon.com/Fire-HD-10-tablet/dp/B08BX7FV5L?th=1
+6. https://www.gsmarena.com/amazon_fire_hd_10_(2021)-10881.php
+
+7. https://www.gsmarena.com/samsung_galaxy_tab_a8_10_5_(2021)-11265.php
+7. https://www.androidpolice.com/does-the-samsung-galaxy-tab-a8-support-sd-cards/
+7. https://nauticomp.com/tft-lcd-displays-and-modules/#:~:text=While%20traditional%20LCDs%20use%20a,for%20use%20in%20portable%20devices.
+7. https://www.notebookcheck.net/UNISOC-Tiger-T618-Processor-Benchmarks-and-Specs.512251.0.html
